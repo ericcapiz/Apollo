@@ -16,7 +16,7 @@ const Tasks = () => {
     { title: "Todo Task 12", done: "Mark as Done" },
   ];
   return (
-    <div className="">
+    <div className="top">
       <div className="mainTasks">
         <div className="progress">
           <h2>40% Done</h2>

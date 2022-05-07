@@ -47,8 +47,9 @@
   font-size: 24px;
 }
 
-.menu {
+.menuItems {
   display: flex;
+  transition: all 0.3s ease-in-out
 }
 
 .subNav {
@@ -88,7 +89,7 @@
   .nav {
     display: flex;
   }
-  .menu {
+  .menuItems {
     display: none;
   }
   .subNav {

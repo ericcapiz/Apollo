@@ -25,7 +25,7 @@ const Nav = () => {
           <p>About Us</p>
           <p>Contact</p>
         </nav>
-        <div className="menu" onClick={handleMenu}>
+        <div className="menuItems" onClick={handleMenu}>
           {menu ? (
             <img alt="close" src={close} />
           ) : (
