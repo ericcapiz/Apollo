@@ -3,9 +3,6 @@
 ![Project Image](https://i.ibb.co/2SgXMcJ/apollo.png)
 ![Project Image](https://i.ibb.co/8K9LvQ6/apollo2.png)
 
-> This app will allow users to create posts, like posts including other users posts and delete their own posts.
-
----
 
 ### Table of Contents
 
@@ -21,7 +18,7 @@ This is the repo for the apollo landing page View the page at https://eric-capiz
 
 #### Technologies/Libraries
 
-- React (including redux for state management and google-login)
+- React (useState)
 - CSS
 - JavaScript
 
@@ -34,7 +31,6 @@ This is the repo for the apollo landing page View the page at https://eric-capiz
 #### Installation
 
 - Fork/Clone Repo
-- Cd into client folder
 - NPM Install
 - NPM Start
 
